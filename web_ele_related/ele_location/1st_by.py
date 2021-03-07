@@ -9,6 +9,7 @@ from abc import abstractmethod
 class By_1st:
     @abstractmethod
     def driver_ini(self):
+        r'before test do sth'
         pass
 
     @abstractmethod
