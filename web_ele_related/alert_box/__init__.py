@@ -7,3 +7,6 @@ r'add sth new by user1st'
 
 def first_function():
     print("this is a first fun first by user1st")
+
+def second_function():
+    print("by user1st second fun")
