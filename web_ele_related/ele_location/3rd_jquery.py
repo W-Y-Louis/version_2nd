@@ -4,3 +4,5 @@
 # @File:3rd_jquery.py
 r'this is for jquery operate'
 r'this is duplicated'
+r'wrong'
+r'error'
