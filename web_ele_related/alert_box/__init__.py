@@ -5,5 +5,10 @@
 r'this is from branch user1st?????'
 r'add sth new by user1st'
 
+
 def fun_by_master():
     print("this from master first fun")
+
+def first_function():
+    print("this is a first fun first by user1st")
+
