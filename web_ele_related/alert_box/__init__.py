@@ -4,3 +4,6 @@
 # @File:__init__.py.py
 r'this is from branch user1st?????'
 r'add sth new by user1st'
+
+def fun_by_master():
+    print("this from master first fun")
