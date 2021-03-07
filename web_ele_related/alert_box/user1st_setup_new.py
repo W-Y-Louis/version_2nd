@@ -4,3 +4,4 @@
 # @File:user1st_setup_new.py
 
 r'this is new file by user1st'
+r'recived a bug git and sth still needed done'
